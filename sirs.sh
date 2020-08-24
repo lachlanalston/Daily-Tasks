@@ -2,7 +2,8 @@
 # ------------------------------------------------------------------
 # Script Name   : SIRS
 # Description   : Simple Image Renaming Scheme
-# Bugs          : only works with filenames with lowercase extension jpgs
+# Bugs          : 
+#                 only works with filenames with lowercase extension jpgs
 #                 need to setup error handling for when exif data is missing;
 #                       no date/time
 #                       no camera make
@@ -12,7 +13,7 @@
 # Format        : Date.Time_Brand.Mode.jpg
 # Author        : Lachlan Alston
 # Dependency    :
-#       https://www.sentex.ca/~mwandel/jhead/
+#                 https://www.sentex.ca/~mwandel/jhead/
 # ------------------------------------------------------------------
 Version=1.0
 SUBJECT=
