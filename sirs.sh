@@ -3,7 +3,12 @@
 # Script Name   : SIRS
 # Description   : Simple Image Renaming Scheme
 # Bugs          : only works with filenames with lowercase extension jpgs
-#                 need to setup error handling for when exif data is missing; no date/time, no camera make, no camera model, no camera make and model, when its wiped.
+#                 need to setup error handling for when exif data is missing;
+#                       no date/time
+#                       no camera make
+#                       no camera model, 
+#                       no camera make and model, 
+#                       wiped exif
 # Format        : Date.Time_Brand.Mode.jpg
 # Author        : Lachlan Alston
 # Dependency    :
